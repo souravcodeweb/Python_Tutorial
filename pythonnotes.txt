@@ -1,0 +1,60 @@
+1. Whatis Pyhon ?
+=> Python is a high-level, general-purpose programming language that is widely used for various applications. 
+It was created by Guido van Rossum and first released in 1991. Python emphasizes readability and simplicity, 
+aiming to provide a clear and concise syntax that is easy to understand and write.
+
+2. Python Installation 
+=> Here is a more detailed step-by-step guide for installing Python on different operating systems:
+
+Windows:
+
+Visit the official Python website at python.org.
+Navigate to the Downloads section.
+Scroll down to the "Python Releases for Windows" section.
+Choose the latest version of Python 3.x (e.g., Python 3.9) or the version you prefer.
+Select the installer appropriate for your Windows version (32-bit or 64-bit).
+Click on the installer to download it.
+Once the installer is downloaded, double-click on it to run it.
+Check the box that says "Add Python [version] to PATH" (recommended).
+Click "Customize installation" if you want to modify the installation location or the optional features.
+Click "Install" to begin the installation process.
+Wait for the installer to complete the installation.
+After the installation is finished, click "Close" to exit the installer.
+To verify the installation, open the Command Prompt and type python --version. You should see the installed version number.
+macOS:
+
+Visit the official Python website at python.org.
+Navigate to the Downloads section.
+Scroll down to the "Python Releases for macOS" section.
+Choose the latest version of Python 3.x (e.g., Python 3.9) or the version you prefer.
+Select the macOS installer package appropriate for your macOS version.
+Click on the installer package to download it.
+Once the installer package is downloaded, double-click on it to run it.
+Follow the installation wizard's instructions, and you can usually accept the default settings unless you have specific preferences.
+If prompted, enter your administrator password to allow the installation.
+Wait for the installation to complete.
+After the installation is finished, you can close the installer package.
+To verify the installation, open the Terminal and type python3 --version. You should see the installed version number.
+Linux:
+
+Open a Terminal.
+Check if Python is already installed by typing python --version or python3 --version. If a version number is displayed, 
+it means Python is already installed. If not, proceed with the installation.
+Update the package manager by running the following command:
+For Debian/Ubuntu-based systems: sudo apt update
+For Fedora: sudo dnf update
+For CentOS/RHEL: sudo yum update
+Install Python using the package manager by running the following command:
+For Debian/Ubuntu-based systems: sudo apt install python3
+For Fedora: sudo dnf install python3
+For CentOS/RHEL: sudo yum install python3
+After the installation is finished, you can verify it by typing python3 --version in the Terminal. 
+You should see the installed version number.
+
+Note: The package manager commands mentioned above assume you are using popular Linux distributions. 
+If you are using a different distribution, the commands may vary. 
+Please refer to your distribution's documentation for the appropriate package manager commands.
+
+That's it! You should now have Python installed on your system and ready to use.
+
+3. 
